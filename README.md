@@ -23,4 +23,8 @@ python test.py --checkpoint ${CHECKPOINT_FILE} --batchsize ${BATCHSIZE} --gpu ${
 ## Nerf
 Please see <a href="https://github.com/ashawkey/torch-ngp">this repo</a> and follow the instructions in it.
 
+<<<<<<< HEAD
 The configuration of the environment of **colmap** is referred to <a href="https://zhuanlan.zhihu.com/p/397053413">this blog</a>.
+=======
+The configuration of the environment of **colmap** is referred to <a href="https://zhuanlan.zhihu.com/p/397053413">this blog</a>.
+>>>>>>> 8569a29100ed4d4130b12b20e35e6eba20ae67e9
