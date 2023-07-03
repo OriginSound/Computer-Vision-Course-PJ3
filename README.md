@@ -1,6 +1,10 @@
 # Computer-Vision-Course-PJ3
 
 ## MoCo
+|  Model | Accuracy | checkpoint |
+|:------:|:--------:|:----------:|
+|resnet18| 92.06%    | <a href="https://pan.baidu.com/s/1pl4pcCXGqQ0u0oGs362mpQ">resnet18</a></td>|
+|  moco  | 76.67%    | <a href="https://pan.baidu.com/s/1pl4pcCXGqQ0u0oGs362mpQ">resnet18</a></td>|
 
 ## Vit
 |  Model | Accuracy | checkpoint |
